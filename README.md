@@ -12,11 +12,11 @@
 
 | GitHub Profile Statistics | Readme Streak Stats |
 | ------------- | ------------- |
-| <img height="150" src="https://github-readme-stats.vercel.app/api?username=olminje&count_private=true&theme=swift" /> | <img height="150" src="https://streak-stats.demolab.com?user=OlMinJe&theme=swift" /> |
+| <img height="180" src="https://github-readme-stats.vercel.app/api?username=olminje&count_private=true&theme=swift" /> | <img height="180" src="https://streak-stats.demolab.com?user=OlMinJe&theme=swift" /> |
 
 |  Language | Trophy |
 | ------------- | ------------- |
-| <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olminje&theme=swift&layout=compact" />  | <img height="150" src="https://github-profile-trophy.vercel.app/?username=olminje&row=1&margin-w=15&theme=flat"/> |
+| <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olminje&theme=swift&layout=compact" />  | <img height="200" src="https://github-profile-trophy.vercel.app/?username=olminje&margin-w=15&theme=flat&row=2&column=4"/> |
 </div>
 
 ## Skill
