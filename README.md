@@ -1,22 +1,26 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Soft&color=ffffff&animation=fadeIn&height=110&section=header&text=개발Lo_goal때림%20🫨&fontSize=50&fontColor=timeGradient)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D95555&center=true&width=1000&size=15&lines=Hello,+I'm+Minje,+the+developer+of+the+front+end.🤍)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=transparent&animation=fadeIn&height=110&section=header&text=개발Lo_goal때림%20🫨&fontSize=50&fontColor=a27aff)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=cfcfeb&center=true&width=1000&size=15&lines=Hello,+I'm+Minje,+the+developer+of+the+front+end.🤍)](https://git.io/typing-svg)
   <div align="left"> 
-
-  ## ⭐️ About me 
+  
+  ## ⭐️ 안녕하세요!
+  - 저는 성장형 개발자 입니다.
+  - 저는 개발 과정과 코드에 대해 연구하는 걸 좋아합니다!
+    
+  ## ⭐️ Contact me
   ૮₍˶ᵔ ᵕ ᵔ˶₎ა<br>
-  /づᡕᠵ᠊ᡃ࡚ࠢ࠘ ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊ࠢ࠘[![Notion](https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=black)](#)
+  /づᡕᠵ᠊ᡃ࡚ࠢ࠘ ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊ࠢ࠘  &nbsp;&nbsp;&nbsp; [![Notion](https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=black)](#)
   [![Gmail](https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:olminje@gmail.com) 
-  </div><br/><br/><br/>
+  </div><br/><br/>
 
 | GitHub Profile Statistics | Readme Streak Stats |
 | ------------- | ------------- |
-| <img height="180" src="https://github-readme-stats.vercel.app/api?username=olminje&count_private=true&theme=swift" /> | <img height="180" src="https://streak-stats.demolab.com?user=OlMinJe&theme=swift" /> |
+| <img height="180" src="https://github-readme-stats.vercel.app/api?username=olminje&count_private=true&theme=buefy" /> | <img height="180" src="https://streak-stats.demolab.com?user=OlMinJe&theme=buefy" /> |
 
 |  Language | Trophy |
 | ------------- | ------------- |
-| <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olminje&theme=swift&layout=compact" />  | <img height="200" src="https://github-profile-trophy.vercel.app/?username=olminje&margin-w=15&theme=flat&row=2&column=4"/> |
+| <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olminje&theme=buefy&layout=compact" />  | <img height="200" src="https://github-profile-trophy.vercel.app/?username=olminje&margin-w=15&margin-h=15&theme=flat&row=2&column=4"/> |
 </div>
 
 ## Skill
