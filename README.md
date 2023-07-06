@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=transparent&animation=fadeIn&height=110&section=header&text=개발Lo_goal때림%20🫨&fontSize=50&fontColor=a27aff)
+![header](https://capsule-render.vercel.app/api?type=transparent&animation=fadeIn&height=110&section=header&text=개발LO_Goal때림%20🫨&fontSize=50&fontColor=a27aff)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=cfcfeb&center=true&width=1000&size=15&lines=Hello,+I'm+Minje,+the+developer+of+the+front+end.🤍)](https://git.io/typing-svg)
   <div align="left"> 
   
@@ -20,7 +20,7 @@
 
 |  Language | Trophy |
 | ------------- | ------------- |
-| <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olminje&theme=buefy&layout=compact" />  | <img height="200" src="https://github-profile-trophy.vercel.app/?username=olminje&margin-w=15&margin-h=15&theme=flat&row=2&column=4"/> |
+| <img height="201" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olminje&theme=buefy&layout=compact" />  | <img height="245" src="https://github-profile-trophy.vercel.app/?username=olminje&margin-w=15&margin-h=15&theme=flat&row=2&column=4"/> |
 </div>
 
 ## Skill
