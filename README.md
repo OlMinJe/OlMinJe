@@ -10,11 +10,13 @@
   [![Gmail](https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:olminje@gmail.com) 
   </div><br/><br/><br/>
 
-| GitHub Profile Statistics | Language | Readme Streak Stats |
-| ------------- | ------------- | ------------- |
-| <img height="150" src="https://github-readme-stats.vercel.app/api?username=olminje&count_private=true&theme=swift" /> | <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olminje&theme=swift&layout=compact" /> | <img height="150" src="https://streak-stats.demolab.com?user=OlMinJe&theme=swift" /> |
-<div align="left">
-  <img width="34.5%" src="https://github-profile-trophy.vercel.app/?username=olminje&column=3&row=2&margin-w=15&theme=flat"/>
+| GitHub Profile Statistics | Readme Streak Stats |
+| ------------- | ------------- |
+| <img height="150" src="https://github-readme-stats.vercel.app/api?username=olminje&count_private=true&theme=swift" /> | <img height="150" src="https://streak-stats.demolab.com?user=OlMinJe&theme=swift" /> |
+
+|  Language | Trophy |
+| ------------- | ------------- |
+| <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olminje&theme=swift&layout=compact" />  | <img height="150" src="https://github-profile-trophy.vercel.app/?username=olminje&row=1&margin-w=15&theme=flat"/> |
 </div>
 
 ## Skill
