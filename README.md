@@ -16,11 +16,11 @@
 
 | GitHub Profile Statistics | Readme Streak Stats |
 | ------------- | ------------- |
-| <img height="180" src="https://github-readme-stats.vercel.app/api?username=olminje&count_private=true&theme=buefy" /> | <img height="180" src="https://streak-stats.demolab.com?user=OlMinJe&theme=buefy" /> |
+| <a href="https://github.com/OlMinJe/github-readme-stats"><img height=180 src="https://github-readme-stats.vercel.app/api?username=OlMinJe&count_private=true&theme=buefy" /></a> | <img height="180" src="https://streak-stats.demolab.com?user=OlMinJe&theme=buefy" /> |
 
 |  Language | Trophy |
 | ------------- | ------------- |
-| <img height="201" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olminje&theme=buefy&layout=compact" />  | <img height="245" src="https://github-profile-trophy.vercel.app/?username=olminje&margin-w=15&margin-h=15&theme=flat&row=2&column=4"/> |
+| <img height="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olminje&theme=buefy" />  | <img height="273" src="https://github-profile-trophy.vercel.app/?username=olminje&margin-w=25&margin-h=15&theme=flat&row=2&column=4"/> |
 </div>
 
 ## Skill
