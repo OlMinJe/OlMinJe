@@ -12,6 +12,7 @@
   ૮₍˶ᵔ ᵕ ᵔ˶₎ა<br>
   /づᡕᠵ᠊ᡃ࡚ࠢ࠘ ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊ࠢ࠘  &nbsp;&nbsp;&nbsp; [![Notion](https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=black)](#)
   [![Gmail](https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:olminje@gmail.com) 
+  [![Blog](https://img.shields.io/badge/Blog-ffffff?style=for-the-badge&logo=Github&logoColor=black)](https://olminje.github.io/) 
   </div><br/><br/>
 
 | GitHub Profile Statistics | Readme Streak Stats |
