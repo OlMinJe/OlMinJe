@@ -1,7 +1,7 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=transparent&animation=fadeIn&height=110&section=header&text=개발LO_Goal때림%20🫨&fontSize=50&fontColor=a27aff)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=cfcfeb&center=true&width=1000&size=15&lines=Hello,+I'm+Minje,+the+developer+of+the+front+end.🤍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=cfcfeb&center=true&width=1000&size=15&lines=Hello,+I'm+Minje,+a+front+end+developer.🤍)](https://git.io/typing-svg)
   <div align="left"> 
   
   ## ⭐️ 안녕하세요!
