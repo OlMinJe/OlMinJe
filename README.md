@@ -9,8 +9,7 @@
   - 저는 개발 과정과 코드에 대해 연구하는 걸 좋아합니다!
     
   ## ⭐️ Contact me
-  ૮₍˶ᵔ ᵕ ᵔ˶₎ა<br>
-  /づᡕᠵ᠊ᡃ࡚ࠢ࠘ ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊ࠢ࠘  &nbsp;&nbsp;&nbsp; [![Velog](https://img.shields.io/badge/velog-ffffff?style=for-the-badge&logo=Velog&logoColor=20C997)](https://velog.io/@ol_minje) 
+[![Velog](https://img.shields.io/badge/velog-ffffff?style=for-the-badge&logo=Velog&logoColor=20C997)](https://velog.io/@ol_minje) 
   [![Gmail](https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:olminje@gmail.com) 
   [![Blog](https://img.shields.io/badge/Blog-ffffff?style=for-the-badge&logo=Github&logoColor=black)](https://olminje.github.io/) 
   
