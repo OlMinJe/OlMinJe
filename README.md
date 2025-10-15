@@ -11,7 +11,7 @@
   ## ⭐️ Contact me
 [![Velog](https://img.shields.io/badge/velog-ffffff?style=for-the-badge&logo=Velog&logoColor=20C997)](https://velog.io/@ol_minje) 
   [![Gmail](https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=Gmail&logoColor=red)](mailto:olminje@gmail.com) 
-  [![Blog](https://img.shields.io/badge/Blog-ffffff?style=for-the-badge&logo=Github&logoColor=black)](https://olminje.github.io/) 
+ <!-- [![Blog](https://img.shields.io/badge/Blog-ffffff?style=for-the-badge&logo=Github&logoColor=black)](https://olminje.github.io/) -->
   
   
 <!-- ## ⭐️ Stack
